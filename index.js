@@ -13,7 +13,7 @@ function hOne(){
     
 if (hScore>gScore) {
     homeScore.style.color="green"
-    guestScore.style.color="red"
+    guestScore.style.color="white"
     }
   
 }
