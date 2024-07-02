@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+p{
+
+
+
+
+
+}
+.sub-container{
+    
+}
+.score{
+
+
+border-radius: 5px ;
+background: #080001;
+color:#F94F6D;
+font-family: Cursed Timer ULiL;
+font-size: 116px;
+font-weight: 400;
+text-align: center;
+padding-top: 10px;
+    
+}
+h3{
+
+
+font-family: Verdana;
+font-size: 40px;
+line-height: 3px;
+text-align: center;
+color: #EEEEEE;
+
+
+}
+.score-buttons{
+width: 155px;
+height: 45px;
+
+
+border-radius: 5px ;
+
+display: flex;
+justify-content:space-around;
+margin-top:15px;
+}
+button{
+width: 45px;
+height: 45px;
+
+
+border-radius: 5px ;
+border: 2px solid #9AABD8;
+background:none;
+font-family: Cursed Timer ULiL;
+font-size: 18px;
+text-align: center;
+color: #9AABD8;
+
+}
